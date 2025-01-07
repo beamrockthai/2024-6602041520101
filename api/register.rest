@@ -2,9 +2,9 @@ POST  http://localhost:8080/api/auth/local/register
 Content-Type: application/json
 
 {
-    "username" : "dadadadada222",
-    "email" : "dadadadaww222@gmail.com",
-    "password" : "123456789BEAM"
+    "username" : "beamrookthat",
+    "email" : "beamrockthai@gmail.com",
+    "password" : "beam78895530TI"
 }
-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
+# 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
 //FULL
